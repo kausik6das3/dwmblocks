@@ -1,5 +1,0 @@
-#!/bin/bash
-TERMINAL="st"
-EDITOR="vim"
-
-
